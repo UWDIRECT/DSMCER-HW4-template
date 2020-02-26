@@ -10,7 +10,7 @@ The purpose of HW4 is to give you practice with the simple regression, multiple 
 * README.me: this file
 * ISSUE_TEMPLATE.md: grading rubric
 * HW4.ipynb
-* Default.xlsx: data to be used
+* Default.xlsx: data to be used (historic file)
 
 ### Instructions
 
